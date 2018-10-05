@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<title>A3</title>
+
+<body>
+    <span>Ejemplo de etiqueta Span</span>
+    <p>Ejemplo de etiqueta P</p>
+    <div>Ejemplo de etiqueta div</div>
+    <UL>
+        <LI>Ejemplo de etiqueta UL</LI>
+        <LI>Y etiqueta LI</LI>
+        <li>con la etique li se crea esto</li>
+    </UL>
+    <a href="https://developer.mozilla.org/es/docs/Web/HTML/Elemento/a">Página dode encontré la informacion de la etiqueta</a>
+    <a href="http://moodle.cifpmajadamarcial.com/mod/assign/view.php?id=153145">Tarea</a>
+    <a herf="http://cifpmajadamarcial.com/">Página del centro</a>
+    <strong>Texto en negrita</strong>
+    <em>Texto en cursiva</em>
+    <h1>Ejemplo de etiqueta H1</h1>
+</body>
+
+</html>
